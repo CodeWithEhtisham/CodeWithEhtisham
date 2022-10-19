@@ -14,7 +14,7 @@
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithEhtisham&layout=compact&theme=radical)
 
-[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeWithEhtisham&repo=github-readme-stats&theme=radical)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CodeWithEhtisham.CodeWithEhtisham)
 
 ## :trophy: Honors
 
