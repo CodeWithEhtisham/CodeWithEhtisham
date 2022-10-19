@@ -9,8 +9,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play Football
 
-[![Ehtisham's github stats](https://github-readme-stats.vercel.app/api?username=CodeWithEhtisham&show_icons=true&theme=radical)](
+[![Ehtisham's github stats](https://github-readme-stats.vercel.app/api?username=CodeWithEhtisham&show_icons=true&theme=radical)]
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithEhtisham&layout=compact&theme=radical)]
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeWithEhtisham&repo=github-readme-stats&theme=radical)](
 
 ## :trophy: Honors
 
