@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play Football
 
-[![Ehtisham's github stats](https://github-readme-stats.vercel.app/api?username=ehtishamahmed&show_icons=true&theme=radical)](
+[![Ehtisham's github stats](https://github-readme-stats.vercel.app/api?username=CodeWithEhtisham&show_icons=true&theme=radical)](
 
 
 ## :trophy: Honors
@@ -130,16 +130,16 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<!-- <a href="https://github.com/mirwisek/mirwisek">
+<a href="https://github.com/mirwisek/mirwisek">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirwisek&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/mirwisek/mirwisek">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirwisek&show_icons=true&line_height=27&count_private=true&title_color=c692e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mir's GitHub Stats" />
-</a> -->
+</a>
 
-<!-- <a href="https://github.com/mirwisek/mirwisek">
+<a href="https://github.com/mirwisek/mirwisek">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirwisek&show_icons=true&line_height=27&count_private=true&title_color=43b883&text_color=43b883&icon_color=43b883&bg_color=fffefe" alt="Mir's GitHub Stats" />
-</a> -->
+</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirwisek&theme=graywhite" alt="mirwise-stats" /></p>
 
