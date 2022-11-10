@@ -3,14 +3,13 @@
 - 🔭 I’m currently working on Full stack
 - 🌱 I’m currently learning reactjs and nextjs
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with new technologies
-- 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ehtishamahmed/)
 
-![Ehtisham's github stats](https://github-readme-stats.vercel.app/api?username=CodeWithEhtisham&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=CodeWithEhtisham&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithEhtisham&layout=compact&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWithEhtisham&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithEhtisham&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CodeWithEhtisham.CodeWithEhtisham)
 
@@ -18,6 +17,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Google Android Developers Challenge Winner](https://developer.android.com/helpful-innovation#agrifarm-section)
+- [Speed Programming Competition Runner-up](https://propakistani.pk/2022/10/26/ignite-holds-speed-programming-competition-to-motivate-the-students-of-balochistan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- icons with padding -->
