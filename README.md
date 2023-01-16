@@ -5,11 +5,11 @@
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ehtishamahmed/)
 
-![](https://github-readme-stats.vercel.app/api?username=CodeWithEhtisham&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeWithEhtisham&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWithEhtisham&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithEhtisham&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodeWithEhtisham&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CodeWithEhtisham.CodeWithEhtisham)
 
