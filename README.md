@@ -12,6 +12,11 @@ I am a full-stack developer with experience in a variety of technologies and fra
 - Software Engineer Intern at Government Innovation Lab (2020-2022)
   - Assisted senior developers with front-end and back-end tasks.
   - Gained experience with technologies such as Flask, React, and PostgreSQL.
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeWithEhtisham&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
   
 ### 🌱 Education
 
@@ -48,4 +53,11 @@ I am a full-stack developer with experience in a variety of technologies and fra
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge
+
+###🔗 Links
+
+- [Personal Website](https://mirwise.com)
+- [Email](mailto:contact@mirwise.com)
+- [Twitter](https://twitter.com/EhtishamPyCoder)
+- [LinkedIn](https://www.linkedin.com/in/ehtishamahmed)
+- [Stack Overflow](https://stackoverflow.com/users/13269204/ehtisham)
