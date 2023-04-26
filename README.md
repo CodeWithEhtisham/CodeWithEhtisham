@@ -1,86 +1,51 @@
-# Hi there! 👋
+## Hello there 👋
 
-My name is [Your Name], and I'm a full-stack developer currently focused on learning ReactJS and NextJS. I am passionate about contributing to open-source projects and collaborating with other developers.
+I am a full-stack developer with experience in a variety of technologies and frameworks, including JavaScript, Python, Django, Flask, React, Next.js, and more. I am passionate about open source and always looking for opportunities to contribute to meaningful projects.
 
-## 📚 Education
+### 💼 Work Experience
 
-- [Degree, Field of Study, Institution], [Graduation Year]
-- [Degree, Field of Study, Institution], [Graduation Year]
+- Full Stack Developer at National Centre of Robotics and Automation (2022-Present)
+  - Led development of several projects using React, Next.js, and Django.
+  - Collaborated with cross-functional teams to design and implement new features.
+  - Mentored junior developers and conducted code reviews.
 
-## 💻 Technical Skills
+- Software Engineer Intern at Government Innovation Lab (2020-2022)
+  - Assisted senior developers with front-end and back-end tasks.
+  - Gained experience with technologies such as Flask, React, and PostgreSQL.
+  
+### 🌱 Education
 
-### Programming Languages
+- Bachelor's Degree in Computer Science from University of Buitems (2016-2020)
 
-- JavaScript
-- Python
-- Shell Script
-- TypeScript
-- HTML5
-- CSS3
+### 🏆 Honors and Awards
 
-### Frameworks
+- Winner of the Google Android Developers Challenge (2021)
+- Runner-up in the Speed Programming Competition held by Ignite (2022)
 
-- DjangoREST
-- Django
-- Flask
-- Express.js
-- jQuery
-- Next JS
-- OpenCV
-- Qt
-- React
-- Socket.io
+### 🚀 Skills
 
-### Databases
+#### Programming Languages
 
-- Microsoft SQL Server
-- MongoDB
-- MySQL
-- Postgres
-- Redis
-- SQLite
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### ML/DL
+#### Front-End
 
-- Keras
-- TensorFlow
-- scikit-learn
-- Matplotlib
-- NumPy
-- Pandas
-- Plotly
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Cloud
+#### Back-End
 
-- DigitalOcean
-- Heroku
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### OS
+#### Databases
 
-- Linux
-- Windows
-
-### Others
-
-- Postman
-- Nginx
-- GitHub
-- Freelancer
-- GitHub Actions
-
-## 🏆 Honors
-
-- Google Android Developers Challenge Winner ([link](https://developer.android.com/helpful-innovation#agrifarm-section))
-- Speed Programming Competition Runner-up ([link](https://propakistani.pk/2022/10/26/ignite-holds-speed-programming-competition-to-motivate-the-students-of-balochistan/))
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeWithEhtisham&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-## 🔗 Links
-
-- [Personal Website](https://mirwise.com)
-- [Email](mailto:contact@mirwise.com)
-- [Twitter](https://twitter.com/EhtishamPyCoder)
-- [LinkedIn](https://www.linkedin.com/in/ehtishamahmed)
-- [Stack Overflow](https://stackoverflow.com/users/13269204/ehtisham)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge
