@@ -54,10 +54,14 @@ I am a full-stack developer with experience in a variety of technologies and fra
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-###🔗 Links
+### :link: Links
 
-- [Personal Website](https://mirwise.com)
-- [Email](mailto:contact@mirwise.com)
-- [Twitter](https://twitter.com/EhtishamPyCoder)
-- [LinkedIn](https://www.linkedin.com/in/ehtishamahmed)
-- [Stack Overflow](https://stackoverflow.com/users/13269204/ehtisham)
+<p align="center">
+  <a href="https://mirwise.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  <a href="mailto:contact@mirwise.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://twitter.com/EhtishamPyCoder"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/ehtishamahmed"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <!-- <a href="https://medium.com/@mirwise001"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a> -->
+  <a href="https://stackoverflow.com/users/13269204/ehtisham"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+  <!-- <a href="https://hub.docker.com/u/mirwisek"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a> -->
+</p>
