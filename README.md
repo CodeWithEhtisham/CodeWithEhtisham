@@ -4,12 +4,12 @@ I am a full-stack developer with experience in a variety of technologies and fra
 
 ### 💼 Work Experience
 
-- Full Stack Developer at National Centre of Robotics and Automation (2022-Present)
+- Full Stack Developer at National Centre of Robotics and Automation (2023-Present)
   - Led development of several projects using React, Next.js, and Django.
   - Collaborated with cross-functional teams to design and implement new features.
   - Mentored junior developers and conducted code reviews.
 
-- Software Engineer at Government Innovation Lab (UNDP) (2020-Present)
+- Software Engineer at Government Innovation Lab (UNDP) (2020-2022)
   - Assisted senior developers with front-end and back-end tasks.
   - Gained experience with technologies such as Flask, React, and PostgreSQL.
 
