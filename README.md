@@ -1,67 +1,38 @@
-## Hello there 👋
+## Ehtisham Ahmed
 
-I am a full-stack developer with experience in a variety of technologies and frameworks, including JavaScript, Python, Django, Flask, React, Next.js, and more. I am passionate about open source and always looking for opportunities to contribute to meaningful projects.
+I build **AI agents and MCP servers**, and the production Python they run on.
 
-### 💼 Work Experience
+Most of my work is backend systems for LLM applications — tool-calling agents, Model Context Protocol servers, and the async infrastructure underneath them: FastAPI, SQLAlchemy 2.x async, Celery, Redis, Postgres. I also ship TypeScript front-ends, including one deployed to the Cloudflare Workers edge runtime.
 
-- Full Stack Developer at National Centre of Robotics and Automation (2023-Present)
-  - Led development of several projects using React, Next.js, and Django.
-  - Collaborated with cross-functional teams to design and implement new features.
-  - Mentored junior developers and conducted code reviews.
+Based in Quetta, Pakistan. Open to contract work on agent and MCP integrations.
 
-- Software Engineer at Government Innovation Lab (UNDP) (2020-2022)
-  - Assisted senior developers with front-end and back-end tasks.
-  - Gained experience with technologies such as Flask, React, and PostgreSQL.
+### Selected work
 
-### 📊 GitHub Stats
+**[netdiag-mcp](https://github.com/CodeWithEhtisham/netdiag-mcp)** · Python, MCP SDK 2.x
+An MCP server giving agents read-only DNS, TLS, HTTP and RDAP diagnostics for any host. Keyless — no API keys to run it. Includes an SSRF guard that refuses non-public targets and re-validates every redirect hop, because these tools take a hostname from a language model and then make a request to it. 65 tests, with the security-critical ones deliberately offline.
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeWithEhtisham&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+**Production LLM agent** · Python — client work, private
+A tool-calling agent for a retail platform, built and maintained solo: FastAPI, async SQLAlchemy, Celery workers, Redis, Postgres, Docker. Also an MCP server exposing the same domain to LLM clients.
 
-  
-### 🌱 Education
+**[whatismytools.com](https://whatismytools.com)** · TypeScript, Next.js 16, Cloudflare Workers
+18 browser-based network and device diagnostics in 4 languages, deployed to the edge via OpenNext. Everything runs client-side — the interesting constraint is that edge runtimes have no Node APIs, so DNS, geolocation and throughput measurement all had to be rebuilt on web primitives.
 
-- Bachelor's Degree in Computer Science from University of Buitems (2016-2020)
+### Stack
 
-### 🏆 Honors and Awards
+**Backend** — Python · FastAPI · SQLAlchemy 2.x (async) · Pydantic v2 · Celery · Redis · PostgreSQL · Alembic · Docker
+**AI/agents** — Model Context Protocol · tool calling · LLM application architecture
+**Frontend** — TypeScript · React 19 · Next.js 16 · Tailwind
+**Infra** — Cloudflare Workers · Linux · GitHub Actions
 
-- Winner of the Google Android Developers Challenge (2021)
-- Runner-up in the Speed Programming Competition held by Ignite (2022)
+### Experience
 
-### 🚀 Skills
+**Full Stack Developer**, National Centre of Robotics and Automation — 2023–present
+**Software Engineer**, Government Innovation Lab (UNDP) — 2020–2022
 
-#### Programming Languages
+BS Computer Science, BUITEMS (2016–2020) · Winner, Google Android Developers Challenge (2021)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Contact
 
-#### Front-End
+[LinkedIn](https://www.linkedin.com/in/ehtishamahmed) · [Stack Overflow](https://stackoverflow.com/users/13269204/ehtisham) · [Twitter](https://twitter.com/EhtishamPyCoder)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Back-End
-
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-#### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### :link: Links
-
-<p align="center">
-  <a href="https://mirwise.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
-  <a href="mailto:contact@mirwise.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://twitter.com/EhtishamPyCoder"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/ehtishamahmed"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <!-- <a href="https://medium.com/@mirwise001"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a> -->
-  <a href="https://stackoverflow.com/users/13269204/ehtisham"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
-  <!-- <a href="https://hub.docker.com/u/mirwisek"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a> -->
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithEhtisham&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
