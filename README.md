@@ -9,13 +9,13 @@ Based in Quetta, Pakistan. Open to contract work on agent and MCP integrations.
 ### Selected work
 
 **[netdiag-mcp](https://github.com/CodeWithEhtisham/netdiag-mcp)** · Python, MCP SDK 2.x
-An MCP server giving agents read-only DNS, TLS, HTTP and RDAP diagnostics for any host. Keyless — no API keys to run it. Includes an SSRF guard that refuses non-public targets and re-validates every redirect hop, because these tools take a hostname from a language model and then make a request to it. 65 tests, with the security-critical ones deliberately offline.
+An MCP server giving agents read-only DNS, TLS, HTTP and RDAP diagnostics for any host. Keyless — no API keys to run it. Includes an SSRF guard that refuses non-public targets and re-validates every redirect hop, because these tools take a hostname from a language model and then make a request to it. Fully tested, with the security-critical cases deliberately offline so they cannot silently pass on a network error.
 
 **Production LLM agent** · Python — client work, private
 A tool-calling agent for a retail platform, built and maintained solo: FastAPI, async SQLAlchemy, Celery workers, Redis, Postgres, Docker. Also an MCP server exposing the same domain to LLM clients.
 
-**[whatismytools.com](https://whatismytools.com)** · TypeScript, Next.js 16, Cloudflare Workers
-18 browser-based network and device diagnostics in 4 languages, deployed to the edge via OpenNext. Everything runs client-side — the interesting constraint is that edge runtimes have no Node APIs, so DNS, geolocation and throughput measurement all had to be rebuilt on web primitives.
+**[whatismytools.com](https://whatismytools.com)** · TypeScript, Next.js, Cloudflare Workers
+A suite of browser-based network and device diagnostics, deployed to the edge via OpenNext. Everything runs client-side — the interesting constraint is that edge runtimes have no Node APIs, so DNS, geolocation and throughput measurement all had to be rebuilt on web primitives.
 
 ### Stack
 
